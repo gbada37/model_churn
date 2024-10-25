@@ -3,3 +3,4 @@ pandas
 joblib
 Pillow
 scikit-learn
+xgboost
